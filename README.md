@@ -3,4 +3,4 @@
 ## _Table of contents_
 * [Class 01](https://alkhateeb49.github.io/reading-notes-301/class-01)
 * [Class 02](https://alkhateeb49.github.io/reading-notes-301/class-02)
-* [Class 03](#)
+* [Class 03](https://alkhateeb49.github.io/reading-notes-301/class-03)
