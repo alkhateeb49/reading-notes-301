@@ -9,3 +9,4 @@
 * [Class 06](class-06)
 * [Class 07](class-07)
 * [Class 08](class-08)
+* [Class 09](class-09)
