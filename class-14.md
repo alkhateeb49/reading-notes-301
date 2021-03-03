@@ -1,4 +1,4 @@
-# Class 14A
+# Class 14
 
 * ##  Database Normalization
 Normalization is a technique for organizing data in a database. It is important that a database is normalized to minimize redundancy (duplicate data) and to ensure only related data is stored in each table. It also prevents any issues stemming from database modifications such as insertions, deletions, and updates.
